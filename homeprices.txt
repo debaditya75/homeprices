@@ -1,0 +1,157 @@
+id,City,State,2004,2005,2006
+10420,Akron,OH,116.9,120.5,114.6
+10580,Albany-Schenectady-Troy,NY,161.3,183.5,195.4
+10740,Albuquerque,NM,145.4,169.2,184.2
+10900,Allentown-Bethlehem-Easton,PA-NJ,207.3,243.4,248.1
+11100,Amarillo,TX,97.1,107.1,114.9
+31100,Anaheim-Santa Ana,CA  (Orange Co.),627.3,691.9,709
+11540,Appleton,WI,122.9,129.6,129.2
+12060,Atlanta-Sandy Springs-Marietta,GA,156.9,167.2,171.8
+12100,Atlantic City,NJ,197.9,256.1,254.8
+12420,Austin-Round Rock,TX,154.7,163.8,173.7
+12580,Baltimore-Towson,MD,217,265.3,279.9
+12700,Barnstable Town,MA,377.2,398.3,389.5
+12940,Baton Rouge,LA,127.7,146.2,169.5
+13140,Beaumont-Port Arthur,TX,93.5,98.5,112.7
+13780,Binghamton,NY,85.3,94.4,96.9
+13820,Birmingham-Hoover,AL,146.6,157,165.1
+13900,Bismarck,ND,113.8,124.9,134.9
+14060,Bloomington-Normal,IL,147.8,159.2,152.2
+14260,Boise City-Nampa,ID,135.9,147,
+14460,Boston-Cambridge-Quincy,MA-NH**,389.7,413.2,402.2
+14500,Boulder,CO,325.3,348.4,366.4
+14860,Bridgeport-Stamford-Norwalk,CT,441.3,482.4,473.7
+15380,Buffalo-Niagara Falls,NY,95,99,97.9
+15940,Canton-Massillon,OH,115.2,102.2,109.3
+15980,Cape Coral-Fort Myers,FL,187.2,269.2,268.2
+16300,Cedar Rapids,IA,129.5,131.8,133.8
+16580,Champaign-Urbana,IL,127.2,137.7,143
+16700,Charleston-North Charleston,SC,183.5,197,212.4
+16620,Charleston,WV,111.3,118.4,119.4
+16740,Charlotte-Gastonia-Concord,NC-SC,168,180.9,190.6
+16860,Chattanooga,TN-GA,125.4,131.9,136
+16980,Chicago-Naperville-Joliet,IL,240.1,264.2,273.5
+17140,Cincinnati-Middletown,OH-KY-IN,142.5,145.9,143.2
+17460,Cleveland-Elyria-Mentor,OH,136.4,138.9,134.4
+17820,Colordo Springs,CO,187.6,205.9,218.2
+17900,Columbia,SC,123.4,135,141.6
+18140,Columbus,OH,146.7,152,148.1
+18580,Corpus Christi,TX,112.7,125.2,131.8
+19060,Cumberland,MD-WV,72.7,87.4,95.7
+19100,Dallas-Fort Worth-Arlington,TX,138.2,147.6,149.5
+19180,Danville,IL,62.2,67.7,
+19340,Davenport-Moline-Rock Island,IA-IL,107.8,117.9,119.7
+19380,Dayton,OH,115.8,119.7,116.7
+19460,Decatur,IL,75.5,82.1,85.4
+19660,Deltona-Daytona Beach-Ormond Beach,FL,148.6,192.5,205.8
+19740,Denver-Aurora,CO,239.1,247.1,249.5
+19780,Des Moines,IA,140.8,145.5,145.1
+19820,Detroit-Warren-Livonia,MI,161,163.8,151.7
+20100,Dover,DE,150.1,180.4,208
+20500,Durham,NC,149,,172.8
+21300,Elmira,NY,78.8,77.1,86.8
+21340,El Paso,TX,94.7,111.8,127.6
+21500,Erie,PA,98.6,100,101.3
+21660,Eugene-Springfield,OR,164.9,197.6,230.6
+22020,Fargo,ND-MN,124.2,132.8,136.5
+22140,Farmington,NM,135,155,172
+23060,Ft. Wayne,IN,96.6,102.3,99.7
+23540,Gainesville,FL,159,184,213.2
+23844,Gary-Hammond,IN,122.6,129.8,128.1
+24020,Glens Falls,NY,129.3,153.1,161.6
+24340,Grand Rapids,MI,132.9,137.8,134.5
+24580,Green Bay,WI,143.3,154.8,151.3
+24660,Greensboro-High Point,NC,139.8,147.8,149.4
+24860,Greenville,SC,135.8,145.4,152
+25060,Gulfport-Biloxi,MS,113.9,131.4,145.8
+25180,Hagerstown-Martinsburg,MD-WV,165.9,208.7,223.1
+25540,Hartford-West Hartford-East Hartford,CT,231.6,253.3,258.1
+26180,Honolulu,HI,460,590,630
+26420,Houston-Baytown-Sugar Land,TX,136,143,149.1
+26900,Indianapolis,IN,121.7,123.8,119.3
+27140,Jackson,MS,118.1,133.8,147.1
+27260,Jacksonville,FL,150.7,175.2,193
+28020,Kalamazoo-Portage,MI,123.1,121.1,
+28100,Kankakee-Bradley,IL,120,127.1,131.5
+28140,Kansas City,MO-KS,150,156.7,155.8
+28420,Kennewick-Richland-Pasco,WA,147.6,154.1,156.1
+28740,Kingston,NY,216.8,251,252.7
+28940,Knoxville,TN,132.2,143.7,151.2
+29620,Lansing-E.Lansing,MI,137.9,142.2,137.7
+29820,Las Vegas-Paradise,NV,266.4,304.7,317.4
+30460,Lexington-Fayette,KY,138.7,146.9,147.8
+30700,Lincoln,NE,134.4,137.2,137.5
+30780,Little Rock-N. Little Rock,AR,108.4,119,127
+31100,Los Angeles-Long Beach-Santa Ana,CA,446.4,529,584.8
+31140,Louisville,KY-IN,131.5,135.8,137.6
+31540,Madison,WI,200.8,218.3,223.2
+32820,Memphis,TN-MS-AR,136.2,141.2,142.3
+33100,Miami-Fort Lauderdale-Miami Beach,FL,286.4,363.9,371.2
+33340,Milwaukee-Waukesha-West Allis,WI,197.1,215.7,220.9
+33460,Minneapolis-St. Paul-Bloomington,MN-WI,217.4,234.8,232.3
+33660,Mobile,AL,115.2,130.5,137
+33860,Montgomery,AL,116.6,133.3,144.2
+34980,Nashville-Davidson--Murfreesboro,TN,145.4,161.8,
+35300,New Haven-Milford,CT,249.2,279.1,287.7
+35380,New Orleans-Metairie-Kenner,LA,137.4,159.2,173.1
+35620,New York-Northern New Jersey-Long Island,NY-NJ-PA,385.9,445.2,469.3
+35620,New York-Wayne-White Plains,NY-NJ,436.6,495.2,539.4
+35620,NY: Edison,NJ,328.1,375.5,387.7
+35620,NY: Nassau-Suffolk,NY ,413.5,465.2,474.7
+35620,NY: Newark-Union,NJ-PA,375.8,416.8,433
+35980,Norwich-New London,CT,231.5,255.9,264
+36100,Ocala,FL,110.1,143.5,165.8
+36420,Oklahoma City,OK,112.4,114.7,125
+36540,Omaha,NE-IA,131.3,136.2,138.4
+36740,Orlando,FL,169.6,243.6,270.4
+37340,Palm Bay-Melbourne-Titusville,FL,153.4,209.7,212
+37860,Pensacola-Ferry Pass-Brent,FL,131.1,162.1,166
+37900,Peoria,IL,96.3,109.3,112.7
+37980,Philadelphia-Camden-Wilmington,PA-NJ-DE-MD,185.1,215.3,230.2
+38060,Phoenix-Mesa-Scottsdale,AZ,169.4,247.4,268.2
+38300,Pittsburgh,PA,113.4,116.1,116.1
+38340,Pittsfield,MA,192.8,207.3,212.9
+38860,Portland-South Portland-Biddeford,ME,224.8,246.6,243.8
+38900,Portland-Vancouver-Beaverton,OR-WA,206.5,244.9,280.8
+39300,Providence-New Bedford-Fall River,RI-MA,276.9,293.4,289.6
+39580,Raleigh-Cary,NC,169.9,194.9,213.8
+39740,Reading,PA,121.1,136.6,143.2
+39900,Reno-Sparks,NV,284.3,349.9,347.2
+40060,Richmond,VA,170.7,201.9,225.5
+40140,Riverside-San Bernardino-Ontario,CA,296.4,374.2,400.1
+40380,Rochester,NY,106.5,113.5,114.8
+40420,Rockford,IL,103.6,118.2,119.3
+40900,Sacramento--Arden-Arcade--Roseville,CA,317,375.9,374.8
+40980,Saginaw-Saginaw Township North,MI,,,
+41180,Saint Louis,MO-IL,128.7,141,148.4
+41420,Salem,OR,154.6,177.7,212.9
+41620,Salt Lake City,UT,158,173.9,203
+41700,San Antonio,TX,122.7,133.9,141.7
+41740,San Diego-Carlsbad-San Marcos,CA,551.6,604.3,601.8
+41860,San Francisco-Oakland-Fremont,CA,641.7,715.7,736.8
+41940,San Jose-Sunnyvale-Santa Clara,CA,698.5,744.5,775
+42260,Sarasota-Bradenton-Venice,FL,255.7,354.2,334.3
+42660,Seattle-Tacoma-Bellevue,WA,284.6,316.8,361.2
+43340,Shreveport-Bossier City,LA,110.6,124.3,132.2
+43620,Sioux Falls,SD,129.2,135.8,138
+43780,South Bend-Mishawaka,IN,93.6,96.6,92.7
+43900,Spartanburg,SC,110.8,121.2,126.7
+44060,Spokane,WA,128.5,156.4,184.1
+44100,Springfield,IL,103.3,106.4,105.4
+44140,Springfield,MA,180.3,201.8,209.6
+44180,Springfield,MO,114.1,121.1,124.8
+45060,Syracuse,NY,98.4,110.6,116.8
+45220,Tallahassee,FL,152.5,167.6,177.5
+45300,Tampa-St.Petersburg-Clearwater,FL,159.7,205.3,228.9
+45780,Toledo,OH,113.5,117.3,110
+45820,Topeka,KS,102.1,105.7,106.1
+45940,Trenton-Ewing,NJ,234.2,261.1,289.6
+46060,Tucson,AZ,177.3,231.6,244.9
+46140,Tulsa,OK,,,
+47260,Virginia Beach-Norfolk-Newport News,VA-NC,163,197.2,235.5
+47900,Washington-Arlington-Alexandria,DC-VA-MD-WV,339.8,425.8,431
+47940,Waterloo/Cedar Falls,IA,95.2,102.2,108.9
+48620,Wichita,KS,103.9,108,114.9
+49340,Worcester,MA,275.9,290.7,281.7
+49420,Yakima,WA,129.9,133.9,136.5
+49660,Youngstown-Warren-Boardman,OH-PA,86,85.6,81.5
